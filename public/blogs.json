@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover_img": "https://picsum.photos/seed/book1/600/400",
+    "title": "The Hidden Path",
+    "author_img": "https://randomuser.me/api/portraits/women/12.jpg",
+    "author": "Emily Carter",
+    "posted_date": "2025-08-01",
+    "reading_time": 6,
+    "hashtags": ["#inspiration", "#mindfulness", "#growth"]
+  },
+  {
+    "id": 2,
+    "cover_img": "https://picsum.photos/seed/book2/600/400",
+    "title": "Shadows of Tomorrow",
+    "author_img": "https://randomuser.me/api/portraits/men/34.jpg",
+    "author": "Daniel Brooks",
+    "posted_date": "2025-07-28",
+    "reading_time": 8,
+    "hashtags": ["#future", "#technology", "#innovation"]
+  },
+  {
+    "id": 3,
+    "cover_img": "https://picsum.photos/seed/book3/600/400",
+    "title": "Echoes in the Valley",
+    "author_img": "https://randomuser.me/api/portraits/women/45.jpg",
+    "author": "Sophia Martinez",
+    "posted_date": "2025-08-10",
+    "reading_time": 5,
+    "hashtags": ["#nature", "#travel", "#adventure"]
+  },
+  {
+    "id": 4,
+    "cover_img": "https://picsum.photos/seed/book4/600/400",
+    "title": "Code of the Unknown",
+    "author_img": "https://randomuser.me/api/portraits/men/56.jpg",
+    "author": "Michael Anderson",
+    "posted_date": "2025-07-30",
+    "reading_time": 10,
+    "hashtags": ["#coding", "#AI", "#machinelearning"]
+  },
+  {
+    "id": 5,
+    "cover_img": "https://picsum.photos/seed/book5/600/400",
+    "title": "The Art of Stillness",
+    "author_img": "https://randomuser.me/api/portraits/women/67.jpg",
+    "author": "Hannah Lee",
+    "posted_date": "2025-08-15",
+    "reading_time": 7,
+    "hashtags": ["#wellness", "#mindfulness", "#balance"]
+  }
+]
